@@ -1,0 +1,25 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.0)
+
+newmtl DefaultMaterial
+Kd 0.600000024 0.600000024 0.600000024
+Ka 0 0 0
+Ks 0 0 0
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+illum 1
+
+newmtl MAT_F42C3C
+Kd 0.752941012 0.752941012 0.752941012
+Ka 0.117647 0.117647 0.117647
+Ks 0.752941012 0.752941012 0.752941012
+Ke 0 0 0
+Tf 1 1 1
+d 1
+Ni 1
+Ns 8
+illum 2
+map_Kd zebra-atlas.jpg
+
